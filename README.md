@@ -20,3 +20,12 @@ Future Improvements
 	•	Add a points system
 	•	Add user login
 	•	Store progress data
+	- Add a leaderboard for top eco-friendly students
+
+
+## Project Structure
+- index.html
+- README.md
+- docs/reflection.md
+
+This tool aims to make sustainability simple and accessible for all students.
