@@ -20,3 +20,5 @@ Future Improvements
 	•	Add a points system
 	•	Add user login
 	•	Store progress data
+
+This tool aims to make sustainability simple and accessible for all students.
